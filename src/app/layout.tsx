@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "PragetX Practical",
-  description: "PragetX Practical",
+  title: "Pragex Stripe",
+  description: "Pragex Stripe",
 };
 
 export default function RootLayout({
